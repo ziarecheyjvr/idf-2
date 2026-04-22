@@ -4,9 +4,11 @@
   --font-sans: 'Helvetica Neue', Arial, sans-serif;
   --font-serif: 'Georgia', serif;
   
-  --color-idf-red: #B22234;
+  --color-idf-red: #e02f27;
+  --color-idf-red-dark: #c22822;
   --color-idf-dark: #1A1A1A;
   --color-idf-gray: #717171;
+  --color-idf-slate: #e5e7eb;
 }
 
 @layer base {
